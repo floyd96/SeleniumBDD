@@ -1,70 +1,70 @@
 $(document).ready(function() {
 CucumberHTML.timelineItems.pushArray([
   {
-    "id": "a435053d-0ee0-44af-ada1-b4fb17e3e72e",
-    "feature": "Delete Product feature",
-    "scenario": "Deleting a product from the product list",
-    "start": 1614941093459,
-    "group": 1,
-    "content": "",
-    "tags": "",
-    "end": 1614941110521,
-    "className": "passed"
-  },
-  {
-    "id": "ef77b9c9-2977-4612-8dc4-d9ae1ba839c0",
+    "id": "a3bc95ec-179a-4796-87a0-579089c6307b",
     "feature": "LogIn Page Feature",
     "scenario": "LogIn with correct credentials",
-    "start": 1614941110569,
+    "start": 1615197552192,
     "group": 1,
     "content": "",
     "tags": "",
-    "end": 1614941121288,
+    "end": 1615197584284,
     "className": "passed"
   },
   {
-    "id": "17dbe420-9058-48e9-b2e0-f41f088f6f23",
-    "feature": "New Product creation feature",
-    "scenario": "User tries to creates a new product with non unique product title",
-    "start": 1614941135311,
-    "group": 1,
-    "content": "",
-    "tags": "",
-    "end": 1614941148582,
-    "className": "passed"
-  },
-  {
-    "id": "9aa3a495-6833-4963-a765-aff63b87d6c2",
-    "feature": "New Product creation feature",
-    "scenario": "User tries to creates a new product with non unique product SKU",
-    "start": 1614941148598,
-    "group": 1,
-    "content": "",
-    "tags": "",
-    "end": 1614941164037,
-    "className": "passed"
-  },
-  {
-    "id": "37ae33c3-5526-495c-b049-ae84f6a8f865",
+    "id": "341d3fe9-379e-46be-b273-802f978fba24",
     "feature": "New Product creation feature",
     "scenario": "User tries to creates a new product with non unique product description",
-    "start": 1614941164069,
+    "start": 1615197620907,
     "group": 1,
     "content": "",
     "tags": "",
-    "end": 1614941177996,
+    "end": 1615197633497,
     "className": "passed"
   },
   {
-    "id": "c81a49b8-0d27-4b96-a433-40efaadf5b8f",
+    "id": "fe9d8a58-b7e4-4382-8abe-27e9b93b051a",
     "feature": "New Product creation feature",
-    "scenario": "User creates a new product with correct entries",
-    "start": 1614941121320,
+    "scenario": "User tries to creates a new product with non unique product title",
+    "start": 1615197596357,
     "group": 1,
     "content": "",
     "tags": "",
-    "end": 1614941135287,
+    "end": 1615197610063,
+    "className": "passed"
+  },
+  {
+    "id": "e78c372e-dc47-48b0-bd10-d125f8b2fbef",
+    "feature": "New Product creation feature",
+    "scenario": "User creates a new product with correct entries",
+    "start": 1615197584377,
+    "group": 1,
+    "content": "",
+    "tags": "",
+    "end": 1615197596277,
     "className": "failed"
+  },
+  {
+    "id": "c7b5cfd7-88e2-4895-b210-5b15719ccadb",
+    "feature": "Delete Product feature",
+    "scenario": "Deleting a product from the product list",
+    "start": 1615197633538,
+    "group": 1,
+    "content": "",
+    "tags": "",
+    "end": 1615197645628,
+    "className": "passed"
+  },
+  {
+    "id": "1722a0d7-847d-4d7b-a67b-17aa46928ecd",
+    "feature": "New Product creation feature",
+    "scenario": "User tries to creates a new product with non unique product SKU",
+    "start": 1615197610087,
+    "group": 1,
+    "content": "",
+    "tags": "",
+    "end": 1615197620884,
+    "className": "passed"
   }
 ]);
 CucumberHTML.timelineGroups.pushArray([
